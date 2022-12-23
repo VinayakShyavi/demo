@@ -1,2 +1,5 @@
 Repositary uploading 
 git clone - to copy/clone the project
+groot
+thanos
+Avathat : The way of water
