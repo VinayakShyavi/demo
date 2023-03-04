@@ -1,2 +1,5 @@
 hello
 this is to create a branch repo
+
+second time i am updating changes in this sample1 file.
+and also i was revising the Git concepts.....
